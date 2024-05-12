@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "664107ccbc187d93ee1715a5"
+  },
+  "productId": {
+    "$oid": "66393b102b99f17aac83da65"
+  },
+  "sku": "BCG678",
+  "quantity": 1,
+  "userId": {
+    "$oid": "6636ee3a22881971dcc05452"
+  },
+  "billingId": {
+    "$oid": "664107ccbc187d93ee17159f"
+  },
+  "paymentId": {
+    "$oid": "664107ccbc187d93ee1715a1"
+  },
+  "status": "Order Placed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664107ccbc187d93ee1715a6"
+  },
+  "productId": {
+    "$oid": "66241868a8660a7f7f25f5e7"
+  },
+  "sku": "ABC1231",
+  "quantity": 1,
+  "userId": {
+    "$oid": "6636ee3a22881971dcc05452"
+  },
+  "billingId": {
+    "$oid": "664107ccbc187d93ee17159f"
+  },
+  "paymentId": {
+    "$oid": "664107ccbc187d93ee1715a1"
+  },
+  "status": "Order Placed",
+  "__v": 0
+}]

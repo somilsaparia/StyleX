@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6641070fbc187d93ee1714ab"
+  },
+  "productId": {
+    "$oid": "66393b102b99f17aac83da65"
+  },
+  "sku": "BCG678",
+  "userId": {
+    "$oid": "6636ee3a22881971dcc05452"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66410716bc187d93ee1714c0"
+  },
+  "productId": {
+    "$oid": "66241868a8660a7f7f25f5e7"
+  },
+  "sku": "ABC1231",
+  "userId": {
+    "$oid": "6636ee3a22881971dcc05452"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66410747bc187d93ee1714f1"
+  },
+  "productId": {
+    "$oid": "66393cfa2b99f17aac83da67"
+  },
+  "sku": "FGH853",
+  "userId": {
+    "$oid": "6636ee3a22881971dcc05452"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641076abc187d93ee171562"
+  },
+  "productId": {
+    "$oid": "65f2bdcaaa9552bd1ed8cbaa"
+  },
+  "sku": "ABC234",
+  "userId": {
+    "$oid": "6636ee3a22881971dcc05452"
+  },
+  "__v": 0
+}]

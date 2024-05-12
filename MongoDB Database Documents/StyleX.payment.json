@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "664106edbc187d93ee17148f"
+  },
+  "nameOnCard": "a",
+  "cardType": "Visa Card",
+  "cardNumber": "d",
+  "cvv": 1,
+  "expdate": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "totalPrice": 199.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664106f2bc187d93ee171493"
+  },
+  "nameOnCard": "a",
+  "cardType": "Visa Card",
+  "cardNumber": "d",
+  "cvv": 1,
+  "expdate": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "totalPrice": 199.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664107ccbc187d93ee1715a1"
+  },
+  "nameOnCard": "s",
+  "cardType": "Master Card",
+  "cardNumber": "ddd",
+  "cvv": 111,
+  "expdate": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "totalPrice": 989,
+  "__v": 0
+}]

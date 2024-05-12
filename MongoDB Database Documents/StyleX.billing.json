@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "664107ccbc187d93ee17159f"
+  },
+  "firstName": "a",
+  "lastName": "a",
+  "email": "a",
+  "telephone": "s",
+  "address": "a",
+  "city": "a",
+  "postCode": "a",
+  "country": {
+    "$oid": "6632c1c73e1c2dbe5c16a50b"
+  },
+  "state": {
+    "$oid": "6632c5809436005ae8ec19b4"
+  },
+  "apartment": "a",
+  "__v": 0
+}]
