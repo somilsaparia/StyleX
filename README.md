@@ -48,3 +48,6 @@ We encourage community contributions. Please open an issue or pull request to su
 
 ## Author
 - [Somil Saparia](sapariasomil@gmail.com)
+
+## Screenshots
+![Home Page](/Screenshots/Homepage.png "Home Page View")
